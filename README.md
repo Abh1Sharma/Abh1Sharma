@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abh1Sharma
-- 👀 I’m interested in Data Science and web/app Development
-- 🌱 I’m currently learning C,C++, Python, and Swift
+- 👀 I’m interested in ML Research, Data Science and web/app Development
+- 🌱 I’m currently learning React and about low level LLM architecture tooling for optimized deployment
 - 💞️ I’m looking to collaborate on Web/App Projects
 - 📫 How to reach me abhib.sharma@mail.utoronto.ca
 
