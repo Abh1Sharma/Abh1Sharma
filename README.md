@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abh1Sharma
-- 👀 I’m interested in ML Research, Data Science and web/app Development
-- 🌱 I’m currently learning React and about low level LLM architecture tooling for optimized deployment
-- 💞️ I’m looking to collaborate on Web/App Projects
-- 📫 How to reach me: abhibhushansharma@gmail.com
+- 👀 I’m interested in building on the frontier of technology
+- 🌱 I’m currently learning about agentic development and curating strong design taste through experience and experimentation
+- 💞️ I’m looking to talk shop about cool new projects, problems across several industries we can build solutions for
+- 📫 How to reach me: abhibhushansharma@gmail.com, linkedIn: https://www.linkedin.com/in/abhi-sharma-2001/
 
 
 <!---
